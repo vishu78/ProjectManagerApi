@@ -33,5 +33,17 @@ A lightweight full-stack backend built with **.NET 8 Web API** for managing proj
 - **DataAnnotations** for validation
 - **Swagger (OpenAPI)** integrated for testing endpoints
 
+  ### Screenshots
+  <img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/eaeadbd9-eca9-4f26-aece-5608f665b459" />
+  <img width="1366" height="768" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/edfbe92c-f0c5-4d55-bfec-27ec5d561b00" />
+  <img width="1366" height="768" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/b5f55e60-8fcc-4728-85e0-126d5abc8586" />
+  <img width="1366" height="768" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/c6b56f98-a11b-4b27-8665-b1bc94586b8f" />
+  <img width="1366" height="768" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/8f4dfcc6-991c-42bd-b38f-0b2b1c7e1043" />
+
+
+
+
+
+
 ---
 
